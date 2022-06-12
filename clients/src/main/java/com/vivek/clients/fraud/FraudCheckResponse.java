@@ -1,4 +1,4 @@
-package com.vivek.fraud;
+package com.vivek.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 }
